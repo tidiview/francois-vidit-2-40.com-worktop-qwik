@@ -1,0 +1,7 @@
+name = "worktop"
+main = "src/index.ts"
+compatibility_date = "2022-07-01"
+
+kv_namespaces = [
+  { binding = "NAMESPACE", id = "52929f83f1a04d9a94a907b18c54663a", preview_id = "abed6565951f4e2f97ebd266e2fced32" }
+]
