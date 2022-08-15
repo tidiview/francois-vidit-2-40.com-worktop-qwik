@@ -1,0 +1,17 @@
+{
+    "name": "fetch",
+    "description": "test",
+    "scripts": {
+        "dev": "vite index.js",
+      "start": "pnpm run dev"
+    },
+    "license": "",
+    "engines": {
+      "node": ">=14"
+    },
+    "devDependencies": {
+      "vite": "2.9.9"
+    },
+    "private": false
+  }
+  
